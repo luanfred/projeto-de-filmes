@@ -4,6 +4,8 @@
     Projeto feito junto com o <a href="https://www.youtube.com/c/MatheusBattisti">Matheus Battisti - Hora de Codar</a>, consumindo a api do TMDB.
 </p>
 
+![filme](https://user-images.githubusercontent.com/111262681/205752964-83360818-88da-4ca3-8f8a-ea22e03464f9.png)
+
 <hr>
 
 <h3>Pré-requisitos</h3>
